@@ -1,4 +1,4 @@
-# This repo is an *official version of Leno Bot*
+# *Official Version of Leno™ Bot*
 
 <a href="https://top.gg/bot/605794795608342528" >
 <img src="https://top.gg/api/widget/status/605794795608342528.svg" alt="Leno™" />
@@ -7,62 +7,41 @@
 <a href="https://top.gg/bot/605794795608342528" >
   <img src="https://top.gg/api/widget/servers/605794795608342528.svg" alt="Leno™" />
 </a>
-<a href="https://discord.gg/w882CuN" >
-  <img src="https://discordapp.com/api/guilds/602713878727622666/widget.png?style=shield" alt="Leno™ Server" />
-</a>
-<a href="https://discord.js.org/" >
-  <img src="https://img.shields.io/badge/discord - V12-blue.svg" alt="discord.js" />
-</a>
-<a href="https://github.com/lenobot/LenoBot/actions/runs/209545342" >
+<a href ="https://discord.gg/PAtaMhmwYW">
+  <img src = "https://img.shields.io/discord/965589165829914664?style=plastic" alt = "discord">
+  </a>
+  <a href="https://github.com/lenobot/Leno_New_Version/actions/runs/209545342" >
   <img src="https://github.com/lenobot/LenoBot/workflows/Build/badge.svg" alt="buildpassing" />
 </a>
-<a href="#" >
-  <img src="https://img.shields.io/npm/l/pg" alt="Licence" />
-</a>
-<a href="https://www.patreon.com/lenobot" >
-  <img src="https://img.shields.io/badge/Support-Leno!-blueviolet" alt="patreon" />
-</a>
-<a href="https://twitter.com/official_leno" >
-  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fofficial_leno" alt="twitter" />
-</a>
+<a href = "#">
+  <img src = "https://img.shields.io/badge/Discord.js-V13-brightgreen" alt = "discord.js">
+  </a>
+<a href ="#">
+  <img src = "https://img.shields.io/badge/Language-JavaScript-brightgreen" alt =" programming Language">
+ </a>
+<a href = "https://www.patreon.com/lenobotofficial?fan_landing=true">
+  <img src = "https://img.shields.io/badge/Patreon-Support-blue" "alt = "patreon">
+ </a>
+<a href ="https://twitter.com/lenobotdiscord">
+  <img src = "https://img.shields.io/twitter/follow/lenobotdiscord?label=lenobotdiscord&style=social" alt = "twitter follow" />
+ </a>
 
 # About:
-*The Leno Bot, is the smallest bot which helps you to make your discord server to look more fantasic & more awesome. Also, leno is a mini-moderation bot with many moderation features.*
+*The Leno™ Discord Bot, is the smallest bot while comparing to the other bot's in the discord community. But we made this with bot with Love & cuteness overload. Just try our bot and you won't regret as our bot is having various functions like Currency System, Advance Moderation, Advace Suggestion System Accept and Decline facilities, and more.*
 *Leno Bot help's you to make you server awesome announcement with embed features. Like (Server Rule's, Sever data's & Much more).*
-*LenoBot will help you to play some mini games like (Roll, RPS, Love & other stuffs)*
-- [x] Roll
-- [x] RPS
-- [x] Love
-- [x] Google
-- [x] Weather
-- [x] Google Images etc..
-
-*LenoBot Moderation Features available:*
-- [x] KICK
-- [x] BAN
-- [x] UNBAN
-- [x] REPORT
-- [x] SOFTBAN
-- [x] SOFTUNBAN
 
 # *PREMIUM FEATURES*
-- [x] Embed Message
-- [x] Embed Announcement
-- [x] Customise Embed
-- [x] Send Image
-- [x] Send Embed
-- [ ] Edit Embed on Progress
+- [x] Custom Command's
+- [x] Custom Embed's
+- [x] Special Dragon Command's
+- [ ] More commands on Progress
 
-# *Database Activity*
-- [ ] Under Construction
+# *What Database we are using?*
+- [x] SQL, Cloud
 # _____________________________________
 **Updating dependencies**
-
-[Website](http://lenobot.renderforestsites.com/)
-
+                                                                                                                            
 - [x] Crashed Command's Fixed
-- [x] Database Testing completed
-- [ ] Custom prefix testing on Progress
 
 <!--
 **lenobot/LenoBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
